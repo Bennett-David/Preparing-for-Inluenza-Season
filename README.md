@@ -1,6 +1,8 @@
 # Preparing for Indluenza Season. 
 This is a repository to hold an analysis of where to send additional medical staff to better prepare for Influenza season in the U.S. See link below for the Tableau storyboard. This is a project for Career Foundry Data Immersion Course. 
 
+[Preparing for Influenza Season Final Report](https://public.tableau.com/app/profile/dave.bennett/viz/PreparingforInfluenzaSeason_16541099303340/FluSeason2018#2)
+
 
 ## Objective
 To help a medical staffing agency that provides temporary workers to clinics and hospitals on an as-needed basis. The analysis will help plan for influenza season, a time when additional staff are in high demand. The final results will examine trends in influenza and how they can be used to proactively plan for staffing needs across the country.
