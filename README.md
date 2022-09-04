@@ -1,4 +1,4 @@
-# Preparing for Indluenza Season. 
+# Preparing for Influenza Season. 
 This is a repository to hold an analysis of where to send additional medical staff to better prepare for Influenza season in the U.S. See link below for the Tableau storyboard. This is a project for Career Foundry Data Immersion Course. 
 
 [Preparing for Influenza Season Final Report](https://public.tableau.com/app/profile/dave.bennett/viz/PreparingforInfluenzaSeason_16541099303340/FluSeason2018#2)
