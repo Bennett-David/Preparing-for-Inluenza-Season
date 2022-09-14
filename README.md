@@ -12,7 +12,7 @@ To help a medical staffing agency that provides temporary workers to clinics and
 The data contains information on the following parameters: 
 - Influenza deaths
 - Population data  
-- Ifluenza labratory test results by state
+- Ifluenza laboratory test results by state
 
 Datasets can be found here: 
 - [CDC Data on Flu Deaths](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcoach-courses-us.s3.amazonaws.com%2Fpublic%2Fcourses%2Fda_program%2FCDC_Influenza_Deaths_edited.xlsx&wdOrigin=BROWSELINK)
